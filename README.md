@@ -38,17 +38,7 @@ I am Madhumitha K, a 3rd-year B.E. Computer Science and Engineering student with
 ### Internships
 
 - **IPCS**
-  - Role: [Your Role Here]
-  - Responsibilities: [Your Responsibilities Here]
-  - Achievements: [Your Achievements Here]
-  - Description: Contributed to various projects, gaining practical experience in [specific field/technology].
-
 - **Codsoft**
-  - Role: [Your Role Here]
-  - Responsibilities: [Your Responsibilities Here]
-  - Achievements: [Your Achievements Here]
-  - Description: Worked on [specific projects/technologies], enhancing my skills in [specific area].
-
 ---
 
 ### Awards & Participation
